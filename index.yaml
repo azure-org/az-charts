@@ -3,7 +3,7 @@ entries:
   az-quickstart-node-http:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-05-28T14:35:10.554170383Z"
+    created: "2021-05-28T15:21:59.049515599Z"
     description: A Helm chart for Kubernetes
     digest: 8b775eeb56fc92bb3a1e1209a1bae6c077cf62c9b084be8a29fc1f0362b6cb0a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,7 +13,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-05-28T14:35:10.553538774Z"
+    created: "2021-05-28T15:21:59.04889839Z"
     description: A Helm chart for Kubernetes
     digest: 1e06990a6d77cea04249ce8daf17e6c0790a6f39b58eecc0b859cc91051d0520
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -23,7 +23,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-05-28T14:35:10.552846664Z"
+    created: "2021-05-28T15:21:59.048221881Z"
     description: A Helm chart for Kubernetes
     digest: f39fc80c00d0dc23a4d8df262e9d9a4be4c1ec3499da5a1c4b9ce542baaa9bcb
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -31,4 +31,15 @@ entries:
     urls:
     - az-quickstart-node-http-0.0.1.tgz
     version: 0.0.1
-generated: "2021-05-28T14:35:10.551982552Z"
+  beyond-overseer:
+  - apiVersion: v1
+    created: "2021-05-28T15:21:59.050398012Z"
+    description: backend of Beyond Overseer, an application used to scan Sixense repository
+      packages
+    digest: 3de6db30b92a2ca8b82819357f3abd16b4841ec843bf0f12a371ad837366d55c
+    icon: https://raw.githubusercontent.com/sxd-overlords/public-assets/master/images/overseer-512x512.png
+    name: beyond-overseer
+    urls:
+    - beyond-overseer-1.18.3.tgz
+    version: 1.18.3
+generated: "2021-05-28T15:21:59.047364669Z"
