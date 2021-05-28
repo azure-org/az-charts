@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  az-quickstart-node-http:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2021-05-28T13:55:16.2254895Z"
+    description: A Helm chart for Kubernetes
+    digest: f39fc80c00d0dc23a4d8df262e9d9a4be4c1ec3499da5a1c4b9ce542baaa9bcb
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: az-quickstart-node-http
+    urls:
+    - az-quickstart-node-http-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-05-28T13:55:16.223731173Z"
