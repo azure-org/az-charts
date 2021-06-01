@@ -3,7 +3,7 @@ entries:
   az-quickstart-node-http:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-06-01T13:30:28.522029287Z"
+    created: "2021-06-01T13:33:23.309174411Z"
     description: A Helm chart for Kubernetes
     digest: 8b775eeb56fc92bb3a1e1209a1bae6c077cf62c9b084be8a29fc1f0362b6cb0a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,7 +13,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-06-01T13:30:28.521401277Z"
+    created: "2021-06-01T13:33:23.308538403Z"
     description: A Helm chart for Kubernetes
     digest: 1e06990a6d77cea04249ce8daf17e6c0790a6f39b58eecc0b859cc91051d0520
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -23,7 +23,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-06-01T13:30:28.520764767Z"
+    created: "2021-06-01T13:33:23.307879294Z"
     description: A Helm chart for Kubernetes
     digest: f39fc80c00d0dc23a4d8df262e9d9a4be4c1ec3499da5a1c4b9ce542baaa9bcb
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -33,7 +33,7 @@ entries:
     version: 0.0.1
   beyond-overseer:
   - apiVersion: v1
-    created: "2021-06-01T13:30:28.52360381Z"
+    created: "2021-06-01T13:33:23.311026934Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: 83967230cb411dabf6b7ab9e286cebc855280bfb831b4a8d15c16a8e6a6a9547
@@ -43,7 +43,7 @@ entries:
     - beyond-overseer-1.19.0.tgz
     version: 1.19.0
   - apiVersion: v1
-    created: "2021-06-01T13:30:28.522839799Z"
+    created: "2021-06-01T13:33:23.310099123Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: 3de6db30b92a2ca8b82819357f3abd16b4841ec843bf0f12a371ad837366d55c
@@ -54,7 +54,7 @@ entries:
     version: 1.18.3
   beyond-overseer-client:
   - apiVersion: v1
-    created: "2021-06-01T13:30:28.524352322Z"
+    created: "2021-06-01T13:33:23.311829844Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 1a1055f6263532cbc142af7928ebc35de1d1128b33e744a5ff025c1e1fcce5be
@@ -65,7 +65,7 @@ entries:
     version: 1.41.1
   ganesh-client:
   - apiVersion: v1
-    created: "2021-06-01T13:30:28.525171234Z"
+    created: "2021-06-01T13:33:23.313005559Z"
     description: Ganesh frontend application
     digest: 779420f2b9e39cf8e1fe34fd5e11e67e2f38ba23f35a430a69523d3d953fcde5
     icon: https://raw.githubusercontent.com/sxd-overlords/public-assets/master/images/ganesh-512x512.png
@@ -75,7 +75,16 @@ entries:
     version: 0.5.3
   ganesh-media-manager:
   - apiVersion: v1
-    created: "2021-06-01T13:30:28.525943846Z"
+    created: "2021-06-01T13:33:23.315476291Z"
+    description: Ganesh media manager service
+    digest: c90df8f7b4a4d4fe6ae228cc19b02e1f93887eb3b9f269c4973c0434ad24cb8e
+    icon: https://raw.githubusercontent.com/sxd-overlords/public-assets/master/images/ganesh-512x512.png
+    name: ganesh-media-manager
+    urls:
+    - ganesh-media-manager-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v1
+    created: "2021-06-01T13:33:23.314139074Z"
     description: Ganesh media manager service
     digest: d7779c75bfc3675797ee49a1b628ad02de46c9279dafba2e33089258187a35e1
     icon: https://raw.githubusercontent.com/sxd-overlords/public-assets/master/images/ganesh-512x512.png
@@ -85,7 +94,7 @@ entries:
     version: 0.0.4
   ganesh-trainings:
   - apiVersion: v1
-    created: "2021-06-01T13:30:28.526901761Z"
+    created: "2021-06-01T13:33:23.316417803Z"
     description: Ganesh trainings service
     digest: b0f70f65c268b2277b0366c83ae3effbbedef1603894c695e0b1e88f7eae585f
     icon: https://raw.githubusercontent.com/sxd-overlords/public-assets/master/images/ganesh-512x512.png
@@ -93,4 +102,4 @@ entries:
     urls:
     - ganesh-trainings-0.8.1.tgz
     version: 0.8.1
-generated: "2021-06-01T13:30:28.519970555Z"
+generated: "2021-06-01T13:33:23.306948683Z"
